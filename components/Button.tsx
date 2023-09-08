@@ -6,7 +6,6 @@ export interface ButtonProps
 
 const Button = forwardRef<HTMLButtonElement, ButtonProps>(
   ({ className, children, disabled, type = "button", ...props }, ref) => {
-    console.log({ ...props });
     return (
       <button
         type={type}
