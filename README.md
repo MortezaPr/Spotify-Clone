@@ -1,6 +1,6 @@
 # Spotify Clone
 
-![overview](./Image/overview.png)
+![overview](./public/images/overview.png)
 
 ## Description
 
