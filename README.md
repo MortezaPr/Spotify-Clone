@@ -1,7 +1,5 @@
 # Spotify Clone
 
-![overview](./public/images/overview.png)
-
 ## Description
 
 This is a repository for a Full Stack Spotify Clone with Next.js.
